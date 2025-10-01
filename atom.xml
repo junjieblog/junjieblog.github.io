@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://junjieblog.github.io</id>
+    <title>junjie&apos;s blog</title>
+    <updated>2025-10-01T02:21:21.865Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://junjieblog.github.io"/>
+    <link rel="self" href="https://junjieblog.github.io/atom.xml"/>
+    <subtitle>一亩三分地</subtitle>
+    <logo>https://junjieblog.github.io/images/avatar.png</logo>
+    <icon>https://junjieblog.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, junjie&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[带孩子玩运动游戏：我的经验与资料分享]]></title>
+        <id>https://junjieblog.github.io/post/dai-hai-zi-wan-yun-dong-you-xi-wo-de-jing-yan-yu-zi-liao-fen-xiang/</id>
+        <link href="https://junjieblog.github.io/post/dai-hai-zi-wan-yun-dong-you-xi-wo-de-jing-yan-yu-zi-liao-fen-xiang/">
+        </link>
+        <updated>2025-09-30T08:48:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不发圈·思考｜信息差与教育选择]]></title>
+        <id>https://junjieblog.github.io/post/bu-fa-quan-si-kao-orxin-xi-chai-yu-jiao-yu-xuan-ze/</id>
+        <link href="https://junjieblog.github.io/post/bu-fa-quan-si-kao-orxin-xi-chai-yu-jiao-yu-xuan-ze/">
+        </link>
+        <updated>2025-06-10T05:09:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[往事与随想｜你指望卜小花在低福利的石叠村能得到什么？]]></title>
+        <id>https://junjieblog.github.io/post/wang-shi-yu-sui-xiang-orni-zhi-wang-bu-xiao-hua-zai-di-fu-li-de-shi-die-cun-neng-de-dao-shi-me/</id>
+        <link href="https://junjieblog.github.io/post/wang-shi-yu-sui-xiang-orni-zhi-wang-bu-xiao-hua-zai-di-fu-li-de-shi-die-cun-neng-de-dao-shi-me/">
+        </link>
+        <updated>2024-12-16T04:16:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珠海碾人血案：一场骇人的“表演式暴力”? via：文化纵横]]></title>
+        <id>https://junjieblog.github.io/post/zhu-hai-nian-ren-xie-an-yi-chang-hai-ren-de-biao-yan-shi-bao-li-viawen-hua-zong-heng/</id>
+        <link href="https://junjieblog.github.io/post/zhu-hai-nian-ren-xie-an-yi-chang-hai-ren-de-biao-yan-shi-bao-li-viawen-hua-zong-heng/">
+        </link>
+        <updated>2024-11-13T07:30:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一座城市的“地下”公民养成 - 端传媒 ]]></title>
+        <id>https://junjieblog.github.io/post/yi-zuo-cheng-shi-de-di-xia-gong-min-yang-cheng-duan-chuan-mei/</id>
+        <link href="https://junjieblog.github.io/post/yi-zuo-cheng-shi-de-di-xia-gong-min-yang-cheng-duan-chuan-mei/">
+        </link>
+        <updated>2024-10-12T12:43:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李承鹏：《你看那满天飞来的沙鸡，就是这个时代》]]></title>
+        <id>https://junjieblog.github.io/post/jxSSDdRtv/</id>
+        <link href="https://junjieblog.github.io/post/jxSSDdRtv/">
+        </link>
+        <updated>2024-09-27T07:34:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS使用ClashX教程]]></title>
+        <id>https://junjieblog.github.io/post/ClashX/</id>
+        <link href="https://junjieblog.github.io/post/ClashX/">
+        </link>
+        <updated>2024-09-19T11:14:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[windows电脑使用v2rayN方法]]></title>
+        <id>https://junjieblog.github.io/post/v2rayN/</id>
+        <link href="https://junjieblog.github.io/post/v2rayN/">
+        </link>
+        <updated>2024-09-19T11:06:03.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓手机v2rayNG 工具使用方法]]></title>
+        <id>https://junjieblog.github.io/post/v2rayNG /</id>
+        <link href="https://junjieblog.github.io/post/v2rayNG /">
+        </link>
+        <updated>2024-09-19T11:03:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS苹果电脑 Clash Verge使用方法]]></title>
+        <id>https://junjieblog.github.io/post/ Clash Verge/</id>
+        <link href="https://junjieblog.github.io/post/ Clash Verge/">
+        </link>
+        <updated>2024-09-19T10:08:39.000Z</updated>
+    </entry>
+</feed>
